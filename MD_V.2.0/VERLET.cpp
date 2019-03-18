@@ -1,6 +1,6 @@
 /*
 -------------------------------------------------------------------------------
-A Class of C++ program for Molecular dynamics (NVE) on harmonic potential = 0.5*k*x^2
+This class is a part of  the C++ program for Molecular dynamics (NVE) on harmonic potential = 0.5*k*x^2
 
 
  Authour:  Anji Babu Kapakayala
@@ -8,8 +8,6 @@ A Class of C++ program for Molecular dynamics (NVE) on harmonic potential = 0.5*
 	       Dept. of Chemistry
 	       IIT Kanpur, India.
 
- USAGE:    Compile:  g++ MD_SHO_v_1.0.cpp
-           Execute:  ./a.out
 -------------------------------------------------------------------------------
 */
 #include <iostream>
